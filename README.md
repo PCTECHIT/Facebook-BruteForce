@@ -11,11 +11,6 @@ bruteforce attack on facebook account script in python
 * pip install mechanize
 * python3 fb.py or python fb2.py
 
-## Screenshots
-![CAPTURE 1](https://github.com/PCTECHIT/Facebook-BruteForce/blob/master/Screenshots/Capture1.JPG)
-![CAPTURE 1](https://github.com/PCTECHIT/Facebook-BruteForce/blob/master/Screenshots/Capture2.JPG)
-![CAPTURE 1](https://github.com/PCTECHIT/Facebook-BruteForce/blob/master/Screenshots/Capture3.JPG)
-
 ## Protection Against Attacker
 * Use Strong Password(Contain all chars + longest as possible)
 * Use two way authentication.
